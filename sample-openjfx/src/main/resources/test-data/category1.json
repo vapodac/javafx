@@ -1,0 +1,46 @@
+{
+"taskConfiguration": "Configuration ABC",
+  "categories": [
+    {
+      "category": "Category A",
+      "tasks": [
+        {
+          "taskType": "Task Type A",
+          "taskName": "Task A-1",
+          "inputArgs": 
+          {"before": "127.0.0.1", "after": "192.168.1.253"}
+        },
+        {
+          "taskType": "Task Type A",
+          "taskName": "Task A-2",
+          "inputArgs": 
+          {"before": "127.0.0.1", "after": "192.168.1.253"}
+        },
+        {
+          "taskType": "Task Type A",
+          "taskName": "Task A-3",
+          "inputArgs": 
+          {"before": "127.0.0.1", "after": "192.168.1.253"}
+        }
+      ]
+    },
+    {
+      "category": "Category B",
+      "tasks": [
+        {
+          "taskType": "Task Type B",
+          "taskName": "Task B-1",
+          "inputArgs": 
+          {"before": "127.0.0.1", "after": "192.168.1.253"}
+        },
+        {
+          "taskType": "Task Type B",
+          "taskName": "Task B-2",
+          "inputArgs": 
+          {"before": "127.0.0.1", "after": "192.168.1.253"}
+        }
+      ]
+    }
+  ]
+}  
+  
